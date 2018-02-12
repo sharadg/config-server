@@ -1,0 +1,1 @@
+A Simple Git repo to initialize application configuration values from git repo.
